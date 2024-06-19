@@ -36,8 +36,7 @@ This workshop welcomes different kinds of papers that emphasize theoretical foun
 **8:55-9:00 Opening**
 
 **9:00-9:30 Invited Talk: GoodCore: Data-effective and Data-efficient Machine Learning through Coreset Selection over Incomplete Data**
-<div class="content">
-<div class="container">
+
  <img width="120" src="chai.jpg" align="right" alt="chai">
  
 * **Speaker**: Chengliang Chai (Associate professor, Beijing Institute of Technology, China)
