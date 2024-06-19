@@ -31,6 +31,34 @@ This workshop welcomes different kinds of papers that emphasize theoretical foun
 * Vector Database
 * Foundation Models
 
+## Program
+
+**8:55-9:00 Opening**
+
+**9:00-9:30 Invited Talk: GoodCore: Data-effective and Data-efficient Machine Learning through Coreset Selection over Incomplete Data**
+Chengliang Chai (Associate professor, Beijing Institute of Technology, China)
+
+**9:30-9:45 FAITH- A Fast, Accurate, and Lightweight Database-agnostic Learned Cost Model**
+Waner Li (University of Electronic Science and Technology of China); Xu Chen (University of Electronic Science and Technology of China); Zibo Liang (University of Electronic Science and Technology of China); Runfan Ye ( University of Electronic Science and Technology of China); Ruyi Lai ( University of Electronic Science and Technology of China); Siying Yue (Huaxin Consulting Co., Ltd); Qinyuan Su (China Telecom Co., Ltd); Kai Zheng (University of Electronic Science and Technology of China); Han Su (University of Electronic Science and Technology of China); Shaozhi Wu (University of Electronic Science and Technology of China)
+
+**9:45-10:00 Financial-ICS: Identifying Peer Firms via LongBERT from 10K Reports**
+Jintao Huang (University of Science and Technology of China)
+
+**10:00-10:15 Exploring the application of nonlinear par􀆟al differential equations in computer numerical simulation operating systems**
+yongcun shao (suzhou city university)
+
+**10:15-10:30 Evolution-Driven Deep Meta-Learning Algorithm for Mul􀆟-Objective Combinatorial Optimization**
+jiajun chen (South China University of Technology); Shaoxin Tan ( South China University of Technology)
+
+**10:30-11:00 Coffee Break**
+
+**11:00-11:15 Fast Approximate Temporal Buterfly Counting on Bipartite Graphs via Edge Sampling**
+Jiaxi Pu (East China Normal University); Yanhao Wang (East China Normal University); Yuchen Li (Singapore Management University); Xuan Zhou (East China Normal University)
+
+**11:15-11:30 Analysis of Kinematics and Dynamics for Mobile Robots under Nonholonomic Constraints**
+yongcun shao (suzhou city university)
+
+
 ## Organizing Team
 
 * Dr. Yan Zhao, Aalborg University, Denmark
@@ -39,7 +67,6 @@ This workshop welcomes different kinds of papers that emphasize theoretical foun
 
 
 ## Important Dates
-
 
 * Paper submission due: 15/04/2024
 * Notification of Acceptance: 17/05/2024
