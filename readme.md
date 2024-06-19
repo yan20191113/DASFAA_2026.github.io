@@ -37,8 +37,8 @@ This workshop welcomes different kinds of papers that emphasize theoretical foun
 
 **9:00-9:30 Invited Talk: GoodCore: Data-effective and Data-efficient Machine Learning through Coreset Selection over Incomplete Data**
 * **Speaker**: Chengliang Chai (Associate professor, Beijing Institute of Technology, China)
-<divclass='container' > 
-  <img src='C:\CTEX\chai,jpg' alt=''>
+<divclass="container" > 
+  <img src="C:\CTEX\chai.jpg" alt="">
  </div>
   
 * **Biography**: Chengliang Chai is currently an associate professor in Beijing Institute of Technology, Beijing, China. He received the PH.D. de gree in computer science and technology from Tsinghua University. His research interests include crowdsourcing data manage ment, data mining and database. He has publised more than 50 papers from top-tier conference like SIGMOD, VLDB, ICDE, etc. He won the CCF doctoral  dissertation award and ACM China doctoral  dissertation award.
