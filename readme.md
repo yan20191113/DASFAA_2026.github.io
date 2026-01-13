@@ -3,7 +3,7 @@
  </div>
 
  <div align='center' style = "vertical-align:middle"> 
-  <h2> <a href="https://www.dasfaa2024.org/"> DASFAA 2026 </a><a href="https://www.dasfaa2026.org/">(https://www.dasfaa2024.org/)</a> </h2>
+  <h2> <a href="https://www.dasfaa2024.org/"> DASFAA 2026 </a><a href="https://www.dasfaa_2026.org/">(https://dasfaa2026.github.io/#)</a> </h2>
  </div>
  
 ## Workshop:
@@ -57,6 +57,7 @@ Authors are invited to submit electronically original, English-language research
 ## Submission
 
 Please submit your paper to w.yuan@uq.edu.au with the title 'BDMS2026 Submission'.
+
 
 
 
