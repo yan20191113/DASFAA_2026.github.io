@@ -40,9 +40,9 @@ This workshop welcomes different kinds of papers that emphasize theoretical foun
 ## Important Dates
 
 
-* Paper submission due: 28/02/2026
-* Notification of Acceptance: 28/03/2026
-* Camera-Ready Papers Due: 10/04/2026
+* Paper submission due: 10/03/2026
+* Notification of Acceptance: 20/03/2026
+* Camera-Ready Papers Due: 25/03/2026
 * Workshop date: 27/04/2026
 
 
@@ -57,6 +57,7 @@ Authors are invited to submit electronically original, English-language research
 ## Submission
 
 Please submit your paper to w.yuan@uq.edu.au with the title 'BDMS2026 Submission'.
+
 
 
 
